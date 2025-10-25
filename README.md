@@ -6,6 +6,6 @@
 
 ## Analyse des données
 
-- [Analyse données de l'article](https://clairegchrd35-lgtm.github.io/Analyse.nb.html)
+- [Analyse données de l'article](https://clairegchrd35-lgtm.github.io/Analyse-article---ADM-/Analyse.nb.html)
 
   
