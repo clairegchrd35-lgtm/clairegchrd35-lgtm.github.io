@@ -1,11 +1,18 @@
-# clairegchrd35-lgtm.github.io
+# ADM – Analyse Données Métabarcodes
 
-## Tutoriel-DADA2 (CC1)
+Bienvenue sur mon site !  :globe_with_meridians:
+
+Ici, je partage mes travaux pratiques et analyses de données microbiennes, réalisés dans le cadre de l’**UE ADM**.
+
+
+## CC1 - Tutoriel DADA2 : utilisation du pipeline (version 1.16)
+
+Un guide pratique pour apprendre à utiliser le <strong>tutoriel DADA2</strong> étape par étape. 
 
 - [Tutoriel-DADA2](https://clairegchrd35-lgtm.github.io/Tutoriel-DADA2/Tutoriel%20DADA2.nb.html)
 
-## Analyse des données d'un article (CC2)
+## CC2 - Analyse de données d'un article scientifique
+
+Pour ce deuxième travail, j’applique le tutoriel DADA2 sur les données issues de l’article scientifique référencé (**PMC 10534035**) pour reproduire les analyses et en commenter les résultats.
 
 - [Analyse données de l'article](https://clairegchrd35-lgtm.github.io/Analyse-article---ADM-/Analyse.nb.html)
-
-  
