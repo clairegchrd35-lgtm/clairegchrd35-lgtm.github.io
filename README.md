@@ -13,6 +13,6 @@ Un guide pratique pour apprendre à utiliser le <strong>tutoriel DADA2</strong> 
 
 ## CC2 - Analyse de données d'un article scientifique
 
-Pour ce deuxième travail, j’applique le tutoriel DADA2 sur les données issues de l’article scientifique référencé (**PMC 10534035**) pour reproduire les analyses et en commenter les résultats.
+Pour ce deuxième travail, j’applique le tutoriel DADA2 sur les données issues de l’article scientifique référencé **PMC 10534035** pour reproduire les analyses et en commenter les résultats.
 
 - [Analyse données de l'article](https://clairegchrd35-lgtm.github.io/Analyse-article---ADM-/Analyse.nb.html)
