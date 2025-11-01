@@ -1,6 +1,6 @@
 # ADM – Analyse Données Métabarcodes
 
-Bienvenue sur mon site !  :globe_with_meridians:
+Bienvenue sur mon site ! 
 
 Ici, je partage mes travaux pratiques et analyses de données microbiennes, réalisés dans le cadre de l’**UE ADM**.
 
