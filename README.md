@@ -2,6 +2,8 @@
 
 Bienvenue sur mon site ! 
 
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/coronavirus-bacteria-animation-gif-download-4568935.gif" alt="drawing" width="200"/>
+
 Ici, je partage mes travaux pratiques et analyses de données microbiennes, réalisés dans le cadre de l’**UE ADM**.
 
 
